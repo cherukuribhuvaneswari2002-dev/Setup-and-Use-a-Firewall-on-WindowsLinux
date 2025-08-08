@@ -1,5 +1,5 @@
-**This document covers step-by-step configuration of Windows Firewall using GUI and PowerShell:
-**
+This document covers step-by-step configuration of Windows Firewall using GUI and PowerShell:
+
 1. Opened Windows Defender Firewall with Advanced Security.
 2. Listed current inbound/outbound rules.
 3. Added a rule to block inbound traffic on TCP port 23 (Telnet).
